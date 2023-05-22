@@ -1,4 +1,4 @@
-# Crowdfunding ETL
+# Crowdfunding: Extract, Transform, Load (ETL) Mini Project
 
 ![alt text](https://github.com/ethanwright96/Crowdfunding-ETL/blob/main/Crowdfunding.jpeg)
 
