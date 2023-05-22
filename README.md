@@ -1,5 +1,7 @@
 # Crowdfunding ETL
 
+![alt text](https://github.com/ethanwright96/Crowdfunding-ETL/blob/main/Crowdfunding.jpeg)
+
 This repository contains the code and files for the Crowdfunding ETL project.
 
 ## Before You Begin
