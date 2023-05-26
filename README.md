@@ -1,8 +1,10 @@
 # Crowdfunding: Extract, Transform, Load (ETL) Mini Project
 
+## Group Members: Ethan Wright & Jae Zakarauskas
+
 ![alt text](https://github.com/ethanwright96/Crowdfunding-ETL/blob/main/Crowdfunding.jpeg)
 
-This repository contains the code and files for the Crowdfunding ETL project.
+This repository contains the code and files for the Module #13 Crowdfunding ETL Mini Project.
 
 ## Before You Begin
 
