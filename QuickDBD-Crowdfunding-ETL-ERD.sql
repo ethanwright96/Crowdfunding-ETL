@@ -1,7 +1,5 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/1RsoGH
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
+-- Crowdfunding postgres Database Schema
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 
 CREATE TABLE "contacts" (
     "contact_id" int   NOT NULL,
