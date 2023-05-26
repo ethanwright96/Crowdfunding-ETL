@@ -33,7 +33,8 @@ CREATE TABLE "campaign" (
     "cf_id" int   NOT NULL,
     "contact_id" int   NOT NULL,
     "company_name" varchar   NOT NULL,
-    "goal" varchar   NOT NULL,
+	"description" varchar NOT NULL,
+    "goal" float   NOT NULL,
     "pledged" float   NOT NULL,
     "outcome" varchar   NOT NULL,
     "backers_count" int   NOT NULL,
@@ -59,3 +60,8 @@ REFERENCES "category" ("category_id");
 ALTER TABLE "campaign" ADD CONSTRAINT "fk_campaign_subcategory_id" FOREIGN KEY("subcategory_id")
 REFERENCES "subcategory" ("subcategory_id");
 
+-- Verification Queries
+SELECT * FROM category;
+SELECT * FROM contacts;
+SELECT * FROM subcategory;
+SELECT * FROM campaign;
